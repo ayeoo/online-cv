@@ -43,7 +43,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-        Business professional with over five years of experience with designing and implementing emerging technologies.   
+        Alexia Yeo is a consultant in the Advisory Services practice of Ernst & Young LLP. She holds a Master’s degree in the field of Industrial Engineering from the University of Toronto and a Bachelor’s degree in Mathematics and Physics from McGill University. She has helped multiple clients utilize data analytics and artificial intelligence to unlock new insights and areas of growth in their organizations. Alexia has over five years of experience in algorithm design and machine learning programming. 
       
 
 education:
@@ -58,9 +58,9 @@ education:
       details: |
         
 experiences:
-    - role: IT Advisory
+    - role: Technology Consultant, IT Advisory
       time: 2018 - Present
-      company: EY, Toronto
+      company: Ernst & Young LLP, Toronto
       details: |
     
 
@@ -72,7 +72,7 @@ experiences:
 
     - role: Researcher
       time: 2015 - 2016
-      company: Data Mining Lab of McGill, Montreal
+      company: Data Mining Lab of McGill University, Montreal
       details: |
   
 
@@ -83,7 +83,7 @@ projects:
     assignments:
       - title: Master's Thesis
         link: "https://tspace.library.utoronto.ca/handle/1807/89580"
-        tagline: "Application of Message Passing algorithms to financial portfolio problems"
+        tagline: "Solving financial portfolio problems with AI Message Passing algorithms"
 
 
 
