@@ -61,7 +61,7 @@ education:
       time: 2013 - 2016
       details: |
         
-experience:
+experiences:
     - role: Technology Consultant, IT Advisory
       time: 2018 - Present
       company: Ernst & Young LLP, Toronto
@@ -84,7 +84,7 @@ experience:
 
 projects:
     title: Projects
-    intro: 
+    intro: >
 
     assignments:
      - title: Graduate Thesis
