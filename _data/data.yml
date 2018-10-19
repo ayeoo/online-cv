@@ -1,4 +1,5 @@
-    #
+
+#
 # Be aware that even a small syntax error here can lead to failures in output. 
 #
 
@@ -29,6 +30,9 @@ sidebar:
 
       - idiom: French
         level: Professional
+        
+      - idiom: Italian
+        level: Beginner
         
     interests:
       - item: Teaching
