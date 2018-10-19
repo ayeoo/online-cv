@@ -86,17 +86,14 @@ projects:
       - title: Master's Thesis
         link: "https://tspace.library.utoronto.ca/handle/1807/89580"
         tagline: "Solving financial portfolio problems with AI Message Passing algorithms"
-        
-        
-    assignments:
+       
       - title: Sentiment Analysis of Online Comments
         link: "https://www.tandfonline.com/doi/abs/10.1080/17475759.2016.1171795"
         tagline: "Machine Learning classification of online comments by political view"
        
-    assignments:
      - title: Association Rule Mining of Survey Data
        link: "https://www.emeraldinsight.com/doi/abs/10.1108/APJML-09-2016-0175"
-       tagline: "Machine Learning for association rules indicating consumer clothing preferences"  
+       tagline: "Using Machine Learning for generating association rules indicating consumer clothing preferences"  
 
 
 
