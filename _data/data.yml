@@ -1,4 +1,4 @@
-#
+    #
 # Be aware that even a small syntax error here can lead to failures in output. 
 #
 
@@ -51,7 +51,7 @@ education:
       university: University of Toronto
       time: 2016 - 2018
       details: |
-
+        
     - degree: BSc in Mathematics and Physics
       university: McGill University
       time: 2013 - 2016
@@ -68,7 +68,7 @@ experiences:
       time: 2016 - 2018
       company: Financial Optimization and Risk Management Research Group, Toronto
       details: |
-    
+        Featured Research: https://www.mie.utoronto.ca/graduate-research-days-student-profiles/
 
     - role: Researcher
       time: 2015 - 2016
