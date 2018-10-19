@@ -57,7 +57,7 @@ education:
       time: 2013 - 2016
       details: |
         
-experiences:
+experience:
     - role: Technology Consultant, IT Advisory
       time: 2018 - Present
       company: Ernst & Young LLP, Toronto
@@ -83,11 +83,11 @@ projects:
     intro: .
 
     assignments:
-      - title: Master's Thesis
+     - title: Master's Thesis
         link: "https://tspace.library.utoronto.ca/handle/1807/89580"
         tagline: "Solving financial portfolio problems with AI Message Passing algorithms"
        
-      - title: Sentiment Analysis of Online Comments
+     - title: Sentiment Analysis of Online Comments
         link: "https://www.tandfonline.com/doi/abs/10.1080/17475759.2016.1171795"
         tagline: "Machine Learning classification of online comments by political view"
        
