@@ -72,7 +72,7 @@ experience:
       time: 2016 - 2018
       company: Financial Optimization and Risk Management Research Group, Toronto
       details: |
-        Featured Research: https://www.mie.utoronto.ca/graduate-research-days-student-profiles/
+     
 
     - role: Researcher
       time: 2015 - 2016
@@ -84,10 +84,10 @@ experience:
 
 projects:
     title: Projects
-    intro: 
+    intro: >
 
     assignments:
-     - title: Master's Thesis
+     - title: Graduate Thesis
        link: "https://tspace.library.utoronto.ca/handle/1807/89580"
        tagline: "Solving financial portfolio problems with AI Message Passing algorithms"
        
